@@ -2,6 +2,10 @@ body {
 	font-family: Arial, Helvetica, sans-serif;	
 }
 
+#site-title {
+	display: none;
+}
+
 #header, #menu-top, #body, #footer, #footer-cpi {
 	width: 775px;
 	margin: 0 auto;
@@ -10,6 +14,10 @@ body {
 #header {
 	background: url(images/header.jpg) center top no-repeat;
 	height: 120px;
+}
+
+#header div {
+	margin: 10px 0 0 10px;
 }
 
 #menu-top {
@@ -52,6 +60,7 @@ body {
 
 #content {
 	width: 430px;
+	padding-top: 20px;
 }
 
 #menu-right {
