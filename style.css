@@ -76,11 +76,12 @@ dd {
 #menu-left {
 	width: 177px;
 	background: url(images/sombra_left.jpg) right top repeat-y;
+	padding-top: 20px;
 }
 
 	#menu-left ul {
 		padding: 0;
-		margin: 20px 25px 0 0px;
+		margin: 0 25px 0 0;
 		list-style-type: none;
 	}
 	
@@ -110,6 +111,7 @@ dd {
 
 #menu-right {
 	width: 169px;
+	padding-top: 20px;
 	background: url(images/sombra_right.jpg) left top repeat-y;
 }
 
