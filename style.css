@@ -6,6 +6,26 @@ body {
 	display: none;
 }
 
+dl {
+	padding: 0;
+	margin: 0;
+}
+
+dt {
+	font-size: 12pt;
+	font-weight: bold;
+	color: #5c5c5c;
+}
+
+dd {
+	font-size: 11pt;
+	padding: 0;
+	padding-bottom: 10px;
+	margin: 0;
+	margin-bottom: 10px;
+	color: #5c5c5c;
+}
+
 #header, #menu-top, #body, #footer, #footer-cpi {
 	width: 775px;
 	margin: 0 auto;
