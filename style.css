@@ -6,6 +6,10 @@ body {
 	display: none;
 }
 
+img {
+	border: 0;
+}
+
 dl {
 	padding: 0;
 	margin: 0;
@@ -113,6 +117,7 @@ dd {
 	width: 169px;
 	padding-top: 20px;
 	background: url(images/sombra_right.jpg) left top repeat-y;
+	text-align: right;
 }
 
 #footer {
