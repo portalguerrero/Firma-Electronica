@@ -2,7 +2,7 @@ body {
 	font-family: Arial, Helvetica, sans-serif;	
 }
 
-#site-title {
+.accesibility {
 	display: none;
 }
 
@@ -42,6 +42,11 @@ dd {
 
 #header div {
 	margin: 10px 0 0 10px;
+}
+
+#header div img {
+	width: 145px;
+	height: 80px;
 }
 
 #menu-top {
