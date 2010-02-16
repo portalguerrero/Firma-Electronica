@@ -1,0 +1,80 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;	
+}
+
+#header, #menu-top, #body, #footer, #footer-cpi {
+	width: 775px;
+	margin: 0 auto;
+}
+
+#header {
+	background: url(images/header.jpg) center top no-repeat;
+	height: 120px;
+}
+
+#menu-top {
+	height: 30px;
+	border-bottom: 1px solid #000;
+}
+
+#menu-top ul {
+	width: 700px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+#menu-top ul, #menu-top li {
+	list-style-type: none;
+	text-align: center;
+}
+
+#menu-top li {
+	float: left;
+	padding: 0;
+	margin: 0;
+	height: 30px;
+	background: url(images/button_bg.jpg) right top no-repeat;
+	width: 140px;
+	line-height: 30px;
+}
+
+#menu-top li a {
+	color: #fff;
+	font-size: 12pt;
+	text-decoration: none;
+	padding-right: 4px;
+}
+
+#menu-left {
+	width: 177px;
+	background: url(images/sombra_left.jpg) right top repeat-y;
+}
+
+#content {
+	width: 430px;
+}
+
+#menu-right {
+	width: 169px;
+	background: url(images/sombra_right.jpg) left top repeat-y;
+}
+
+#footer {
+	height: 50px;
+	border-bottom: 2px solid #ccc;
+}
+
+#footer-cpi {
+	height: 77px;
+}
+
+#footer, #footer-cpi {
+	background-color: #333;
+	color: #fff;
+	font-size: 11px;
+}
+
+#footer div, #footer-cpi div {
+	padding: 12px 10px 0 10px;
+	text-align: center;
+}
