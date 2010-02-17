@@ -150,6 +150,11 @@ dd {
 	border-bottom: 2px solid #ccc;
 }
 
+#footer a, #footer-cpi a {
+	color: #fff;
+	text-decoration: underline;
+}
+
 #footer-cpi {
 	height: 77px;
 }
