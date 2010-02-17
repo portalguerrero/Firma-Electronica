@@ -116,7 +116,27 @@ dd {
 #content {
 	width: 430px;
 	padding-top: 20px;
+	color: #5c5c5c;
+	font-size: 10pt;
+	padding-bottom: 20px;
 }
+
+.cols-3 #content {
+	width: 599px;
+}
+
+	.migajas {
+		font-size: 11px;
+		color: #5c5c5c;
+	}
+
+	#content h2 {
+		font-size: 14pt;
+	}
+	
+	#content h3 {
+		font-size: 12pt;
+	}
 
 #menu-right {
 	width: 169px;

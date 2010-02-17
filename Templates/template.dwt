@@ -10,7 +10,7 @@
 <!-- TemplateEndEditable -->
 </head>
 
-<body>
+<body class="cols-3">
 <h1 class="accesibility"><a href="../index.html">Firma Electrónica Certificada</a></h1>
 <div id="header">
 	<div><a href="../index.html"><img src="../images/spacer.gif" alt="" width="1" height="1" /></a></div>
@@ -21,8 +21,8 @@
     <li><a href="../index.html">Inicio</a></li>
     <li><a href="../acgeg.html">ACGEG</a></li>
     <li><a href="../quienes-somos.html">Quienes somos</a></li>
-    <li><a href="../reglamento-fec.html">Reglamento</a></li>
-    <li><a href="../contacto.html">Contáctanos</a></li>
+    <li><a href="../reglamento.html">Reglamento</a></li>
+    <li><a href="../contactanos.html">Contáctanos</a></li>
     </ul>
 </div>
 <div id="body">
@@ -41,7 +41,6 @@
 		
 		<!-- TemplateEndEditable -->
         </td>
-        <td valign="top" id="menu-right"><a href="http://www.guerrero.gob.mx/" target="_blank"><img src="../images/banner_guerrero.jpg" alt="Gobierno del Estado de Guerrero" width="140" height="54" /></a><a href="http://cetic.guerrero.gob.mx/" target="_blank"><img src="../images/banner_cetic.jpg" alt="CETIC" width="140" height="54" /></a><a href="http://secof.guerrero.gob.mx/" target="_blank"><img src="../images/banner_secof.jpg" alt="SECOF" width="140" height="54" /></a><a href="http://www.guerrero.gob.mx/?P=cartografia_index" target="_blank"><img src="../images/banner_cartografia.jpg" alt="Cartografia Digital" width="140" height="54" /></a></td>
     </tr>
 </table>
 </div>
